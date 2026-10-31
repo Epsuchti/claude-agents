@@ -1,0 +1,5 @@
+{
+  "name": "workflow",
+  "version": "0.1.0",
+  "description": "Plan, design, implement, fix and test agents with a routing skill."
+}

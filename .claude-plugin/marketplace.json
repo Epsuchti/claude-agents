@@ -1,0 +1,11 @@
+{
+  "name": "claude-agents",
+  "owner": { "name": "ericz" },
+  "plugins": [
+    {
+      "name": "workflow",
+      "source": "./plugins/workflow",
+      "description": "Plan, design, implement, fix and test agents with a routing skill."
+    }
+  ]
+}
